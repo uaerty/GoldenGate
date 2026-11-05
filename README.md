@@ -24,7 +24,7 @@ Study materials covering computer systems architecture,
 computer organisation, hardware components, operating systems,
 and hardware-software integration.
 
-[Explore CS 117 Materials](./CS-117-Systems-and-Architecture/)
+[Explore CS 117 Materials](./CS%20117%3A%20Systems%20%26%20Architecture/)
 
 ### 3. CS 111: Data Structures, Algorithms &
 Computational Thinking
